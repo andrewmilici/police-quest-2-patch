@@ -741,39 +741,39 @@
 						(ShowObjs)
 					)
 	
-					((Said 'eat/poo')
-						(= index
-							(Print 0 42
-								#button	{ Go To Room } 1
-								#button { Go To Mall } 2
-								#button { Jogger Date} 3
-							)
-						)	
-						(= speed 2)
-						;(Bset fKeithFollows)
-						(switch index
-							(1
-								
-								(curRoom newRoom: (GetNumber {What room?}))	
-							)
-							(2
-								(Print {off to the mall!})
-								(= gamePhase 3)
-								(= currentCar carWork)
-								(curRoom newRoom: 67)	
-							)
-							
-							(3
-								(= gCurrentDate 1)
-									(curRoom newRoom: 9)	
-							)
-						)					
-						;(Print {hehe, poo})
-						;(= speed 2)
-						;(= index (GetNumber {What room?}))
-
-						;(curRoom newRoom: (GetNumber {What room?}))
-					)			
+;;;					((Said 'eat/poo')
+;;;						(= index
+;;;							(Print 0 42
+;;;								#button	{ Go To Room } 1
+;;;								#button { Go To Mall } 2
+;;;								#button { Jogger Date} 3
+;;;							)
+;;;						)	
+;;;						(= speed 2)
+;;;						;(Bset fKeithFollows)
+;;;						(switch index
+;;;							(1
+;;;								
+;;;								(curRoom newRoom: (GetNumber {What room?}))	
+;;;							)
+;;;							(2
+;;;								(Print {off to the mall!})
+;;;								(= gamePhase 3)
+;;;								(= currentCar carWork)
+;;;								(curRoom newRoom: 67)	
+;;;							)
+;;;							
+;;;							(3
+;;;								(= gCurrentDate 1)
+;;;									(curRoom newRoom: 9)	
+;;;							)
+;;;						)					
+;;;						;(Print {hehe, poo})
+;;;						;(= speed 2)
+;;;						;(= index (GetNumber {What room?}))
+;;;
+;;;						;(curRoom newRoom: (GetNumber {What room?}))
+;;;					)			
 					((Said 'frisk,(look<in,through)/billfold')
 						(if (not (ego has: iWallet))
 							(DontHave)
