@@ -12,7 +12,9 @@ This file lists all gameplay, dialogue, and logic changes made.
 - Sonny can now get naked (as in Police Quest I).
 - Sonny will get in trouble if he drives off without returning the ear muffs.
 - Sonny can shoot at Keith - keith will shoot back.
-  
+
+
+
 ---
 
 ## 💰 Money
@@ -94,6 +96,9 @@ Sonny can now find or steal money from:
 ## 🏃 Cotton Cove Jogger
 
 - Sonny can ask her on a date (previously she only replied "I don’t date cops").
+
+<img width="952" height="600" alt="image" src="https://github.com/user-attachments/assets/c478d15a-0e4c-423d-8f92-3e1bcbf3fb97" />
+
 
 ---
 
