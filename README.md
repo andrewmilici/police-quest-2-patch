@@ -18,6 +18,9 @@ It includes:
 - Gameplay tweaks
 
 A full list of changes can be found [here](https://github.com/andrewmilici/police-quest-2-patch/blob/main/CHANGELOG.md). An alternative spolier-free/hint based version can also be found [here](https://github.com/andrewmilici/police-quest-2-patch/blob/main/CHANGELOG_HINTS.md).
+<img width="951" height="596" alt="image" src="https://github.com/user-attachments/assets/af823e6f-2720-41ed-a56f-f85e01f9798d" />
+
+
 
 ## ⚙️ How to use
 
