@@ -60,6 +60,9 @@ Sonny can now find or steal money from:
 - Sonny can order a pizza.
 - After ordering, a pizza delivery car appears outside.
 
+<img width="952" height="590" alt="image" src="https://github.com/user-attachments/assets/fdf19f6a-87ca-4ed5-85bf-8fb8d23ab37f" />
+
+
 ---
 
 ## ✈ Airport Updates
